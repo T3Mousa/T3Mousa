@@ -55,6 +55,6 @@
 
 ### :telescope: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=T3Mousa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T3Mousa&theme=catppuccin-latte&hide_border=true&background=E0D1EB)](https://git.io/streak-stats)
 
 
