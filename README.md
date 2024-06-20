@@ -31,13 +31,6 @@ My experience as a teacher has given me a unique perspective on user needs and e
 
 ---
 
-### 📫: Get In Touch :
-
-- LinkedIn: https://www.linkedin.com/in/tamara-j-mousa/
-- Email: jermanust88@gmail.com
-
----
-
 ### :hammer_and_wrench: Languages, Frameworks and Tools :
 
 <div align="center">
@@ -71,3 +64,10 @@ My experience as a teacher has given me a unique perspective on user needs and e
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T3Mousa&theme=catppuccin-latte&hide_border=true&background=E0D1EB)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3MOusa&show_icons=true&theme=cobalt)
+
+---
+
+### 📫: Get In Touch :
+
+- LinkedIn: https://www.linkedin.com/in/tamara-j-mousa/
+- Email: jermanust88@gmail.com
