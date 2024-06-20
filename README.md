@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&label=TM&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <div>
-  <img src="https://komarev.com/ghpvc/?username=T3Mousa&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=T3Mousa&style=for-the-badge&color=green" alt=""/>
   </div>
 </div>
 
