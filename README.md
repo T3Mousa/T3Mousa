@@ -20,3 +20,7 @@
   My name is Tamara and I am a full stack software engineer based in Tallahassee, Florida. 
 </p>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
