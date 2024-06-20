@@ -14,6 +14,8 @@
   </div>
 </div>
 
+---
+
 <p align="center" style="font-family:Tahoma">
 Hello! I'm Tamara, a full-stack software engineer transitioning from a six-year career as a high school math teacher. My journey in education has equipped me with strong analytical skills, patience, and a keen eye for detail, which I now apply to the world of software development.
 
