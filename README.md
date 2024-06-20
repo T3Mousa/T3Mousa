@@ -9,6 +9,9 @@
   <a href="https://t3mousa.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&label=TM&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  <a href="mailto:jermanust88@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <div>
   <img src="https://komarev.com/ghpvc/?username=T3Mousa&style=for-the-badge&color=green" alt=""/>
   </div>
