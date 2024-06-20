@@ -31,6 +31,13 @@ My experience as a teacher has given me a unique perspective on user needs and e
 
 ---
 
+### 📫: Get In Touch :
+
+- LinkedIn: https://www.linkedin.com/in/tamara-j-mousa/
+- Email: jermanust88@gmail.com
+
+---
+
 ### :hammer_and_wrench: Languages, Frameworks and Tools :
 
 <div align="center">
