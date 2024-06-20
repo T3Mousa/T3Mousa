@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/tamara-j-mousa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://t3mousa.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-black?label=TM&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <div>
   <img src="https://komarev.com/ghpvc/?username=T3Mousa&style=flat-square&color=blue" alt=""/>
   </div>
