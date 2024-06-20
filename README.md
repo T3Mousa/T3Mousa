@@ -57,3 +57,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T3Mousa&theme=catppuccin-latte&hide_border=true&background=E0D1EB)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3MOusa&show_icons=true&theme=cobalt)
