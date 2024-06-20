@@ -14,13 +14,12 @@
   </div>
 </div>
 
-<h1 align="center"  style="font-family:Tahoma">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <p align="center" style="font-family:Tahoma">
-  My name is Tamara and I am a full stack software engineer based in Tallahassee, Florida. 
+Hello! I'm Tamara, a full-stack software engineer transitioning from a six-year career as a high school math teacher. My journey in education has equipped me with strong analytical skills, patience, and a keen eye for detail, which I now apply to the world of software development.
+
+I recently completed an intensive software engineering bootcamp through App Academy, where I gained proficiency in Javascript, Python, React, and Express among many other frameworks and tools. Throughout the bootcamp, I worked on two full-stack projects, including a blended learning web application that would allow teachers to merge traditional classroom instruction with online resources, showcasing my ability to innovate and bridge my educational background with technology.
+
+My experience as a teacher has given me a unique perspective on user needs and empathy, which I bring to my development work. I'm excited to collaborate on projects that prioritize user-centered design and innovative problem-solving.
 </p>
 
 ---
