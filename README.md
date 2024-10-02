@@ -23,7 +23,7 @@
 Hi, I'm Tamara—a full-stack software engineer with a passion for creating user-centered solutions. Before transitioning into tech, I spent six years as a high school math teacher, where I honed my analytical thinking, problem-solving skills, and attention to detail. Now, I bring that same mindset to software development.
 </p>
 <p align="center" style="font-family:Tahoma">
-In early 2024, I completed an immersive software engineering bootcamp at App Academy, where I built proficiency in JavaScript, Python, React, Node.js, and PostgreSQL, among other technologies. During this time, I developed two full-stack applications, including a blended learning platform that merges traditional classroom instruction with digital tools, bridging my background in education with my passion for tech innovation.
+In early 2024, I completed an immersive software engineering bootcamp at App Academy, where I built proficiency in JavaScript, Python, React, Node.js, and PostgreSQL, among other technologies. During this time, I developed three full-stack applications, including a blended learning platform that merges traditional classroom instruction with digital tools, bridging my background in education with my passion for tech innovation.
 </p>
 <p align="center" style="font-family:Tahoma">
 Most recently, I led the development of the enterprise version of an EdTech platform focused on art education at a startup, utilizing the MERN stack. While the project didn’t reach production, I gained hands-on experience with non-relational databases and TailwindCSS, while further sharpening my React and UI/UX design skills through libraries like React DnD and Flowbite.
