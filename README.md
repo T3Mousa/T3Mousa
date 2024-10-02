@@ -23,7 +23,10 @@
 Hello! I'm Tamara, a full-stack software engineer transitioning from a six-year career as a high school math teacher. My journey in education has equipped me with strong analytical skills, patience, and a keen eye for detail, which I now apply to the world of software development.
 </p>
 <p align="center" style="font-family:Tahoma">
-I recently completed an intensive software engineering bootcamp through App Academy, where I gained proficiency in Javascript, Python, React, and Express among many other frameworks and tools. Throughout the bootcamp, I worked on two full-stack projects, including a blended learning web application that would allow teachers to merge traditional classroom instruction with online resources, showcasing my ability to innovate and bridge my educational background with technology.
+I completed an intensive software engineering bootcamp through App Academy at the bginning of 2024, where I gained proficiency in Javascript, Python, React, NodeJS, and PostgreSQL among many other frameworks and tools. Throughout the bootcamp, I worked on two full-stack projects, including a blended learning web application that would allow teachers to merge traditional classroom instruction with online resources, showcasing my ability to innovate and bridge my educational background with technology.
+</p>
+<p align="center" style="font-family:Tahoma">
+I recently contributed to the work of an EdTech startup focused on art education. During my time there, I led the development of the enterprise version of a dynamic eductional platform using the MERN stack. Although the project never went into production, it enabled me to add non-relational database management systems and TailwindCSS to my skillset while also allowing me to stengthen and expand my skills in React and UI/UX design as I explored and worked with libraries like React DnD and Flowbite. 
 </p>
 <p align="center" style="font-family:Tahoma">
 My experience as a teacher has given me a unique perspective on user needs and empathy, which I bring to my development work. I'm excited to collaborate on projects that prioritize user-centered design and innovative problem-solving.
