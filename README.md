@@ -20,16 +20,16 @@
 ---
 
 <p align="center" style="font-family:Tahoma">
-Hello! I'm Tamara, a full-stack software engineer transitioning from a six-year career as a high school math teacher. My journey in education has equipped me with strong analytical skills, patience, and a keen eye for detail, which I now apply to the world of software development.
+Hi, I'm Tamara—a full-stack software engineer with a passion for creating user-centered solutions. Before transitioning into tech, I spent six years as a high school math teacher, where I honed my analytical thinking, problem-solving skills, and attention to detail. Now, I bring that same mindset to software development.
 </p>
 <p align="center" style="font-family:Tahoma">
-I completed an intensive software engineering bootcamp through App Academy at the bginning of 2024, where I gained proficiency in Javascript, Python, React, NodeJS, and PostgreSQL among many other frameworks and tools. Throughout the bootcamp, I worked on two full-stack projects, including a blended learning web application that would allow teachers to merge traditional classroom instruction with online resources, showcasing my ability to innovate and bridge my educational background with technology.
+In early 2024, I completed an immersive software engineering bootcamp at App Academy, where I built proficiency in JavaScript, Python, React, Node.js, and PostgreSQL, among other technologies. During this time, I developed two full-stack applications, including a blended learning platform that merges traditional classroom instruction with digital tools, bridging my background in education with my passion for tech innovation.
 </p>
 <p align="center" style="font-family:Tahoma">
-I recently contributed to the work of an EdTech startup focused on art education. During my time there, I led the development of the enterprise version of a dynamic eductional platform using the MERN stack. Although the project never went into production, it enabled me to add non-relational database management systems and TailwindCSS to my skillset while also allowing me to stengthen and expand my skills in React and UI/UX design as I explored and worked with libraries like React DnD and Flowbite. 
+Most recently, I led the development of the enterprise version of an EdTech platform focused on art education at a startup, utilizing the MERN stack. While the project didn’t reach production, I gained hands-on experience with non-relational databases and TailwindCSS, while further sharpening my React and UI/UX design skills through libraries like React DnD and Flowbite.
 </p>
 <p align="center" style="font-family:Tahoma">
-My experience as a teacher has given me a unique perspective on user needs and empathy, which I bring to my development work. I'm excited to collaborate on projects that prioritize user-centered design and innovative problem-solving.
+My teaching experience, combined with my work at the EdTech startup, gives me a unique perspective on both user needs and product development, especially in educational contexts. This allows me to approach software engineering with empathy and a focus on intuitive, user-centered design. I'm excited to leverage these skills to collaborate on projects that prioritize innovative solutions and meaningful user experiences.
 </p>
 
 ---
